@@ -1,0 +1,11 @@
+1. Create a VPC Done
+2. Create public subnets Done
+3. Create Private subnets Done
+4. Create Public route table Done
+5. Create private route table Done
+6. Create internat gateway Done
+7. Create Nat-gateway Done
+9. Update public route table routes for IGW Done
+10. Update private route table routes for nat gateway Done
+11. associate Public RT to public subnets Done
+12. associate Private RT to private subnets Done

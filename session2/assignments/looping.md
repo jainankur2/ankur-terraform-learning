@@ -23,7 +23,7 @@ multiple environments dynamically using the for_each meta-argument.
 
 ## Requirements
 Define a map of environments (e.g., dev, staging, prod)
-with unique bucket names. Use the for_each meta-argument to create an S3
+with unique bucket names should contain your username. Use the for_each meta-argument to create an S3
 bucket for each environment. Tag each bucket with the corresponding
 environment name.
 
